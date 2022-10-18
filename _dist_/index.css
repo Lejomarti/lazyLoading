@@ -1,0 +1,12 @@
+@import "../_snowpack/pkg/tailwindcss/dist/base.css";
+@import "../_snowpack/pkg/tailwindcss/dist/components.css";
+@import "../_snowpack/pkg/tailwindcss/dist/utilities.css";
+
+
+.container{
+    background-color: rgb(236, 236, 236);
+    width: 300px;
+    height: auto;
+    margin: 20px auto;
+
+}
