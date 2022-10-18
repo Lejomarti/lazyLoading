@@ -1,7 +1,7 @@
 import { registerImage } from "./lazy";
 
 let totalImg = 1;
-let loadedImg = 0;
+
 
 //crear (1) imagen
 
